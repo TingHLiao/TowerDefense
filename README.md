@@ -42,4 +42,4 @@ There's 2 version easy and hard. There'll be a boss in the hard version.
 - hard
 ![](hard.png)
 
-Hope you enjoy it.
+Hope you enjoy it :)
