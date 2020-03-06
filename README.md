@@ -30,3 +30,16 @@ After that, click `General`.
 Drag the files in library dictionary into the `Linked Frameworks and Libraries`.
 
 Then the prerequisted setting is done!
+
+## Running
+Put all files in src and resource dictionary to the project, then start playing!
+
+There's 2 version easy and hard. There'll be a boss in the hard version.
+
+- easy
+![](easy.png)
+
+- hard
+![](hard.png)
+
+Hope you enjoy it.
